@@ -1,0 +1,14 @@
+# mission 1: menjalankan msfconsele
+
+## tujuan
+- menembus server org,
+- sadap wa
+- melumpuhkan server target
+- input dataset
+- memahami tampilan awal dan command.
+
+## langkah
+1. buka terminal (Termux/WSL/Windows).
+2. jalankan perintah:
+  '''bash
+  msfconsole
